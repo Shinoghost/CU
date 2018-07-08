@@ -83,7 +83,21 @@ nav ul :hover{
 	margin-top: 30px;
 }
 
-.one a :hover{
+.one a:hover{
 	background-color: #666666;
 	color: white;
+}
+
+.second-image{
+	width: 100%;
+	display: block;
+	height: 600px;
+	margin-top: 50px;
+	position: relative;
+}
+
+.img-text h5{
+	position: absolute;
+	text-align: center;
+	color: blue;
 }
